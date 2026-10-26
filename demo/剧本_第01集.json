@@ -1,0 +1,321 @@
+{
+  "title": "回声镇",
+  "episode": "第1集",
+  "episode_title": "回声",
+  "format": "12集社会派悬疑短剧",
+  "draft": "第3稿",
+  "date": "2026-10-18",
+  "logline": "声音设计师林晚回到故乡，在一盘十年前的旧磁带里，听见了妹妹溺水那晚被抹去的开闸声。",
+  "characters": [
+    {"name": "林晚", "desc": "34岁，电影声音设计师，右耳失聪，佩戴人工耳蜗。"},
+    {"name": "赵玉兰", "desc": "61岁，林晚的母亲，回声旅馆老板娘，阿尔茨海默早期。"},
+    {"name": "周牧", "desc": "36岁，镇水利站站长，林晚的旧友。"},
+    {"name": "周德海", "desc": "63岁，退休水库管理员，周牧之父。"},
+    {"name": "陈默", "desc": "45岁，镇派出所所长。"},
+    {"name": "小满", "desc": "11岁，镇小学五年级学生，合唱团领唱。"},
+    {"name": "高远", "desc": "42岁，省台调查记者，林晚大学同学（仅电话声）。"},
+    {"name": "林汐", "desc": "17岁（殁于十年前），林晚的妹妹，仅以录音声音出现。"}
+  ],
+  "scenes": [
+    {
+      "heading": "1. 外景 水库大坝 夜（2016年7月19日）",
+      "elements": [
+        {"type": "action", "text": "黑场。先有声音：雨点砸在铁皮上，密得像有人在屋顶奔跑。"},
+        {"type": "action", "text": "一束防水手电的光柱切开雨幕，扫过水库大坝的闸门。闸门锈迹斑斑，红色警示灯在雨里一明一灭。"},
+        {"type": "action", "text": "水面突然鼓起。一只手从水下伸出来，抓住闸门钢索。"},
+        {"type": "character", "text": "林汐（画外）"},
+        {"type": "dialogue", "text": "姐——"},
+        {"type": "dialogue", "text": "姐！我在这儿——"},
+        {"type": "action", "text": "手电沉入水中。光柱在水下旋转，照亮一张十七岁女孩的脸。她的嘴还在动，却没有声音。水声吞掉了一切。"},
+        {"type": "transition", "text": "切黑。"},
+        {"type": "action", "text": "字幕：2016年7月19日，响水镇。"}
+      ]
+    },
+    {
+      "heading": "2. 内景 北京·电影混音棚 日",
+      "elements": [
+        {"type": "action", "text": "巨大的监听音箱。屏幕上是一段声波。林晚（34岁，干练、疲惫）戴着耳机，右耳后有一枚小小的耳蜗磁吸。"},
+        {"type": "action", "text": "她推动推子。水声在棚里涨起来。"},
+        {"type": "character", "text": "导演（画外）"},
+        {"type": "dialogue", "text": "林老师，这水太干净了。像游泳池。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "十年前的水，本来就不干净。"},
+        {"type": "action", "text": "她按下播放。水声里混进一丝极细的电流声。耳蜗突然啸叫。"},
+        {"type": "action", "text": "林晚皱眉，摘下耳机。啸叫还在。"},
+        {"type": "character", "text": "助理"},
+        {"type": "dialogue", "text": "林姐，你电话。响了一上午了。"},
+        {"type": "action", "text": "林晚接过手机。屏幕上显示“妈（17）”。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "喂。"},
+        {"type": "character", "text": "赵玉兰（电话）"},
+        {"type": "dialogue", "text": "汐汐啊，你什么时候到家？饭都凉了。"},
+        {"type": "action", "text": "林晚沉默。她看向屏幕上那截被放大的声波。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "妈，我是晚晚。"},
+        {"type": "action", "text": "电话那头传来什么东西摔碎的声音。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "3. 外景 响水镇渡口 黄昏",
+      "elements": [
+        {"type": "action", "text": "渡船靠岸。林晚拖着一只黑色设备箱下船。"},
+        {"type": "action", "text": "镇子变了。沿河挂满红灯笼，墙上刷着“响水古镇·省级水利风景区”。远处大坝上立着崭新的观景台。"},
+        {"type": "character", "text": "司机（画外）"},
+        {"type": "dialogue", "text": "林老师是吧？镇里让我来接。您这箱子真沉。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "吃饭的家伙。"},
+        {"type": "action", "text": "一个十一岁的女孩蹲在码头边，对着河水唱歌。她唱得很轻，调子很老。"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "声音不会骗人，人会。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "谁教你的？"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "林汐姐姐。"},
+        {"type": "action", "text": "林晚停住。女孩抬起头，冲她笑。"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "你是她姐姐吧？你耳朵后面有天线。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "4. 外景 回声旅馆门口 黄昏",
+      "elements": [
+        {"type": "action", "text": "回声旅馆。招牌上的“回”字缺了一笔。赵玉兰（61岁）站在门口，手里端着一碗饭。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "汐汐，你怎么才回来。"},
+        {"type": "action", "text": "林晚站在台阶下。她张了张嘴。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "妈。"},
+        {"type": "action", "text": "赵玉兰把饭碗递过来，又猛地收回，像被烫到。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "你不是汐汐。汐汐的头发是湿的。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "5. 内景 回声旅馆大堂 夜",
+      "elements": [
+        {"type": "action", "text": "老挂钟停在四点十七分。墙上全家福里，两个女孩并排站着。"},
+        {"type": "action", "text": "林晚推开自己房间的门。房间一尘不染，桌上还摆着高中的课本。"},
+        {"type": "character", "text": "赵玉兰（画外）"},
+        {"type": "dialogue", "text": "你妹妹在楼下。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "妈，汐汐死了十年了。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "死了也要吃饭。"},
+        {"type": "action", "text": "林晚走到走廊尽头。妹妹的房门上挂着一把新锁。"},
+        {"type": "action", "text": "她伸手碰了碰锁，锁是温的。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "妈，谁进过这个房间？"},
+        {"type": "action", "text": "大堂里，收音机忽然自己响了，播着一段天气预报。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "6. 内景 镇医院病房 日",
+      "elements": [
+        {"type": "action", "text": "医生翻着片子。"},
+        {"type": "character", "text": "医生"},
+        {"type": "dialogue", "text": "早期阿尔茨海默。时好时坏，最近摔了一跤，髋部有裂。"},
+        {"type": "dialogue", "text": "她会把时间弄混。有时候把十年前当成昨天。"},
+        {"type": "action", "text": "病房里，赵玉兰忽然清醒。她盯着林晚，眼神锐利得吓人。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "你回来干什么？"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "镇里请我录声音档案。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "这里的声音，不好听。"},
+        {"type": "action", "text": "她伸手抓住林晚的手腕，力气大得不像病人。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "晚晚，别查。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "查什么？"},
+        {"type": "action", "text": "赵玉兰已经糊涂了，松开手，开始哼一段童谣。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "7. 内景 镇水利站办公室 日",
+      "elements": [
+        {"type": "action", "text": "周牧（36岁）在图纸上签字。他抬头看见林晚，愣了一秒，笑了。"},
+        {"type": "character", "text": "周牧"},
+        {"type": "dialogue", "text": "晚晚。真回来了。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "镇里请的。录声音档案。"},
+        {"type": "character", "text": "周牧"},
+        {"type": "dialogue", "text": "好事。响水的声音，值得留下来。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "我想查一下2016年7月19号的水位记录。"},
+        {"type": "action", "text": "周牧签字的笔顿住。"},
+        {"type": "character", "text": "周牧"},
+        {"type": "dialogue", "text": "那么早的档案，在县里。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "水文站不是有一份？"},
+        {"type": "character", "text": "周牧"},
+        {"type": "dialogue", "text": "泡了。那年漏雨。"},
+        {"type": "action", "text": "林晚点头。她转身要走。"},
+        {"type": "character", "text": "周牧"},
+        {"type": "dialogue", "text": "你耳蜗……还响吗？"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "比人话真。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "8. 外景 镇上老街 / 废品收购站 日",
+      "elements": [
+        {"type": "action", "text": "小满蹦蹦跳跳地走在前面。废品站门口堆着被雨淋过的纸箱。"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "老板说，这些是从水文站拉来的。"},
+        {"type": "action", "text": "小满从口袋里掏出一盘磁带。磁带盒上用圆珠笔写着两个字：林汐。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "你在哪找到的？"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "箱子里。还有一箱，都泡烂了。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "你听过吗？"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "听过一点点。里面有人喊。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "喊什么？"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "关闸。"},
+        {"type": "action", "text": "林晚的手指收紧。"},
+        {"type": "character", "text": "小满"},
+        {"type": "dialogue", "text": "阿姨，你妹妹是不是也在里面？"},
+        {"type": "action", "text": "林晚没有回答。她把磁带放进贴身的口袋。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "9. 内景 老水文站 夜",
+      "elements": [
+        {"type": "action", "text": "废弃的水文站。林晚用湿巾擦净磁带机磁头。应急灯把她的影子投在墙上。"},
+        {"type": "action", "text": "她把磁带放进机器。按下播放。"},
+        {"type": "action", "text": "底噪。雨声。一个女孩的声音，很近。"},
+        {"type": "character", "text": "林汐（录音）"},
+        {"type": "dialogue", "text": "今天是7月19号，雨。姐说今晚回来。"},
+        {"type": "dialogue", "text": "我要把响水的声音录下来，等她回来放给她听。"},
+        {"type": "dialogue", "text": "她说北京太吵，听不见水。"},
+        {"type": "action", "text": "林晚笑了。笑到一半，停住。"},
+        {"type": "action", "text": "磁带里，远处传来一声金属摩擦。接着是警报。"},
+        {"type": "character", "text": "男人的声音（录音）"},
+        {"type": "dialogue", "text": "关闸！快关闸！"},
+        {"type": "character", "text": "少年的声音（录音）"},
+        {"type": "dialogue", "text": "爸，我按了。"},
+        {"type": "action", "text": "林晚的耳蜗发出尖锐的啸叫。她一把扯下耳蜗，抓起骨传导耳机按在颧骨上。"},
+        {"type": "action", "text": "声音继续。水声暴涨。"},
+        {"type": "character", "text": "林汐（录音）"},
+        {"type": "dialogue", "text": "姐？姐，你在吗——"},
+        {"type": "action", "text": "磁带转到头，咔哒一声。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "10. 内景 老水文站 夜",
+      "elements": [
+        {"type": "action", "text": "林晚反复倒带。她把那几秒切出来，做成循环。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "关闸。快关闸。爸，我按了。"},
+        {"type": "action", "text": "她拿起手机。屏幕上是高远的名字。"},
+        {"type": "character", "text": "高远（电话）"},
+        {"type": "dialogue", "text": "大半夜的，你最好有大事。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "高远，2016年响水水库，有开闸记录吗？"},
+        {"type": "character", "text": "高远（电话）"},
+        {"type": "dialogue", "text": "你查这个干什么？"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "我听见了。"},
+        {"type": "action", "text": "电话那头沉默了很久。"},
+        {"type": "character", "text": "高远（电话）"},
+        {"type": "dialogue", "text": "备份。至少三份。别用云盘。"},
+        {"type": "action", "text": "林晚挂了电话。她把磁带捧在手心，像捧着一块冰。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "11. 外景 水库大坝 日",
+      "elements": [
+        {"type": "action", "text": "周德海（63岁）在坝上巡线。他看见林晚的设备箱，脸色变了。"},
+        {"type": "character", "text": "周德海"},
+        {"type": "dialogue", "text": "你录这个干什么？"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "镇里让录声音档案。"},
+        {"type": "character", "text": "周德海"},
+        {"type": "dialogue", "text": "声音档案。哼。"},
+        {"type": "action", "text": "他用脚踢了踢坝上的水位标尺。标尺上有一道旧划痕。"},
+        {"type": "character", "text": "周德海"},
+        {"type": "dialogue", "text": "水位不会骗人。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "那记录呢？"},
+        {"type": "character", "text": "周德海"},
+        {"type": "dialogue", "text": "你妹妹那年，水来得邪。一宿涨了两米。"},
+        {"type": "dialogue", "text": "记录上写的是半米。"},
+        {"type": "action", "text": "他盯着林晚，像在警告，又像在求救。"},
+        {"type": "character", "text": "周德海"},
+        {"type": "dialogue", "text": "有些声音，录下来就删不掉了。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "12. 内景 镇派出所 日",
+      "elements": [
+        {"type": "action", "text": "陈默（45岁）把一份泛黄的卷宗推到桌上。封面写着：意外溺水。"},
+        {"type": "character", "text": "陈默"},
+        {"type": "dialogue", "text": "你母亲签的字。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "她签了什么？"},
+        {"type": "character", "text": "陈默"},
+        {"type": "dialogue", "text": "火化同意书。还有一份……不追究说明。"},
+        {"type": "action", "text": "林晚翻开卷宗。最后一页，赵玉兰的签名歪歪扭扭。"},
+        {"type": "character", "text": "陈默"},
+        {"type": "dialogue", "text": "有些事，翻出来，疼的是活人。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "活人已经疼了十年。"},
+        {"type": "action", "text": "陈默合上卷宗，手在封面上停了一下。"},
+        {"type": "character", "text": "陈默"},
+        {"type": "dialogue", "text": "卷宗里少了两页。不是我拿的。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "13. 内景 回声旅馆厨房 夜",
+      "elements": [
+        {"type": "action", "text": "赵玉兰在灶台前煮面。水开了，她没关火。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "二十万……我一分没花。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "什么二十万？"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "都给你治耳朵了。"},
+        {"type": "action", "text": "林晚走过去，关掉火。"},
+        {"type": "character", "text": "林晚"},
+        {"type": "dialogue", "text": "谁给的？"},
+        {"type": "action", "text": "赵玉兰转过头，眼神空了。"},
+        {"type": "character", "text": "赵玉兰"},
+        {"type": "dialogue", "text": "……什么二十万？"},
+        {"type": "action", "text": "锅里的水还在响。林晚看着母亲，第一次觉得这个厨房比水库还深。"},
+        {"type": "transition", "text": "切。"}
+      ]
+    },
+    {
+      "heading": "14. 外景 响水河边 夜",
+      "elements": [
+        {"type": "action", "text": "夜。响水河。林晚坐在石头上，把磁带机放在膝盖上。"},
+        {"type": "action", "text": "她按下播放。林汐的声音在河面上散开。"},
+        {"type": "character", "text": "林汐（录音）"},
+        {"type": "dialogue", "text": "姐说今晚回来。"},
+        {"type": "action", "text": "林晚闭上眼。水声漫上来。"},
+        {"type": "action", "text": "磁带里，忽然出现另一个声音。很近，喘着气，带着哭腔。"},
+        {"type": "character", "text": "林晚（录音，十年前）"},
+        {"type": "dialogue", "text": "汐汐，别动。姐姐在这儿。"},
+        {"type": "action", "text": "林晚猛地睁眼。"},
+        {"type": "action", "text": "她低头看着磁带机。转轮还在转。"},
+        {"type": "action", "text": "河面上，有什么东西轻轻响了一声。"},
+        {"type": "transition", "text": "切黑。"},
+        {"type": "action", "text": "片尾字幕。水声继续。"}
+      ]
+    }
+  ]
+}

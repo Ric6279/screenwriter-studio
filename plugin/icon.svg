@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="编剧工坊">
+  <rect x="2" y="2" width="60" height="60" rx="13" fill="#1B2A38"/>
+  <path d="M16 48V19.5L24 15l8 4.5V48" fill="none" stroke="#DCEAEA" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M32 48V29l8-4.5 8 4.5v19" fill="none" stroke="#C8963E" stroke-width="2.6" stroke-linejoin="round"/>
+  <path d="M12 48h40" fill="none" stroke="#DCEAEA" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M20 23h4M20 28h4M20 33h4M36 33h4M36 38h4" stroke="#DCEAEA" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="24" cy="42" r="1.7" fill="#C8963E"/>
+  <circle cx="40" cy="42" r="1.7" fill="#C8963E"/>
+</svg>

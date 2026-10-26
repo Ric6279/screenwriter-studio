@@ -1,0 +1,19 @@
+# 本机运行状态，不进仓库
+plugin-state.json
+demo/_当前项目.json
+demo/_当前剧本.json
+
+# 上传的私人资料
+知识库/上传/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.venv-ocr/
+
+# 生成/临时
+.dsh-office-*/
+*.log
+Thumbs.db
+.DS_Store

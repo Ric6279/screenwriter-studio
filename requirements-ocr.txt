@@ -1,0 +1,6 @@
+# OCR 依赖。当前锁定的 .pylibs 为 Python 3.10 / Windows 构建。
+pymupdf==1.28.2
+rapidocr_onnxruntime==1.4.4
+onnxruntime==1.19.2
+opencv-python==4.10.0.84
+numpy==1.26.4

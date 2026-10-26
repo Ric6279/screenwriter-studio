@@ -1,0 +1,1306 @@
+{
+ "pdf": "E:\\desktop\\肥鱼专属空间\\screenwriter-tools\\打草稿  编剧思维训练表=The screenplay workbook the writing before the writing_14070407.pdf",
+ "dpi": 200,
+ "workers": 8,
+ "chapters": [
+  {
+   "title": "p9-192",
+   "pages": [
+    9,
+    192
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "page": 9,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 34.49,
+   "avgScore": 0.998
+  },
+  {
+   "page": 10,
+   "lines": 32,
+   "source": "ocr",
+   "seconds": 57.53,
+   "avgScore": 0.994
+  },
+  {
+   "page": 11,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 41.18,
+   "avgScore": 0.996
+  },
+  {
+   "page": 12,
+   "lines": 0,
+   "source": "ocr",
+   "seconds": 10.86,
+   "avgScore": 0.0
+  },
+  {
+   "page": 13,
+   "lines": 17,
+   "source": "ocr",
+   "seconds": 33.06,
+   "avgScore": 0.996
+  },
+  {
+   "page": 14,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 49.88,
+   "avgScore": 0.996
+  },
+  {
+   "page": 15,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 49.47,
+   "avgScore": 0.996
+  },
+  {
+   "page": 16,
+   "lines": 28,
+   "source": "ocr",
+   "seconds": 53.85,
+   "avgScore": 0.991
+  },
+  {
+   "page": 17,
+   "lines": 18,
+   "source": "ocr",
+   "seconds": 33.54,
+   "avgScore": 0.993
+  },
+  {
+   "page": 18,
+   "lines": 67,
+   "source": "ocr",
+   "seconds": 23.58,
+   "avgScore": 0.978
+  },
+  {
+   "page": 19,
+   "lines": 68,
+   "source": "ocr",
+   "seconds": 23.78,
+   "avgScore": 0.978
+  },
+  {
+   "page": 20,
+   "lines": 68,
+   "source": "ocr",
+   "seconds": 17.57,
+   "avgScore": 0.978
+  },
+  {
+   "page": 21,
+   "lines": 67,
+   "source": "ocr",
+   "seconds": 21.55,
+   "avgScore": 0.975
+  },
+  {
+   "page": 22,
+   "lines": 68,
+   "source": "ocr",
+   "seconds": 22.02,
+   "avgScore": 0.976
+  },
+  {
+   "page": 23,
+   "lines": 15,
+   "source": "ocr",
+   "seconds": 25.92,
+   "avgScore": 0.998
+  },
+  {
+   "page": 24,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 46.63,
+   "avgScore": 0.997
+  },
+  {
+   "page": 25,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 46.49,
+   "avgScore": 0.985
+  },
+  {
+   "page": 26,
+   "lines": 28,
+   "source": "ocr",
+   "seconds": 44.29,
+   "avgScore": 0.991
+  },
+  {
+   "page": 27,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 22.87,
+   "avgScore": 0.996
+  },
+  {
+   "page": 28,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 16.33,
+   "avgScore": 0.99
+  },
+  {
+   "page": 29,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 20.78,
+   "avgScore": 0.977
+  },
+  {
+   "page": 30,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.98,
+   "avgScore": 0.993
+  },
+  {
+   "page": 31,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 22.23,
+   "avgScore": 0.976
+  },
+  {
+   "page": 32,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.84,
+   "avgScore": 0.995
+  },
+  {
+   "page": 33,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 20.17,
+   "avgScore": 0.971
+  },
+  {
+   "page": 34,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.49,
+   "avgScore": 0.988
+  },
+  {
+   "page": 35,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 18.37,
+   "avgScore": 0.976
+  },
+  {
+   "page": 36,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 13.72,
+   "avgScore": 0.985
+  },
+  {
+   "page": 37,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 16.38,
+   "avgScore": 0.984
+  },
+  {
+   "page": 38,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 17.05,
+   "avgScore": 0.993
+  },
+  {
+   "page": 39,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 24.78,
+   "avgScore": 0.974
+  },
+  {
+   "page": 40,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 16.31,
+   "avgScore": 0.993
+  },
+  {
+   "page": 41,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 25.17,
+   "avgScore": 0.977
+  },
+  {
+   "page": 42,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 18.44,
+   "avgScore": 0.994
+  },
+  {
+   "page": 43,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 21.22,
+   "avgScore": 0.984
+  },
+  {
+   "page": 44,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.46,
+   "avgScore": 0.989
+  },
+  {
+   "page": 45,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 19.56,
+   "avgScore": 0.971
+  },
+  {
+   "page": 46,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 14.64,
+   "avgScore": 0.992
+  },
+  {
+   "page": 47,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 19.05,
+   "avgScore": 0.969
+  },
+  {
+   "page": 48,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 17.12,
+   "avgScore": 0.99
+  },
+  {
+   "page": 49,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 23.3,
+   "avgScore": 0.974
+  },
+  {
+   "page": 50,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.54,
+   "avgScore": 0.99
+  },
+  {
+   "page": 51,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 19.13,
+   "avgScore": 0.968
+  },
+  {
+   "page": 52,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 17.55,
+   "avgScore": 0.995
+  },
+  {
+   "page": 53,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 21.09,
+   "avgScore": 0.976
+  },
+  {
+   "page": 54,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 13.33,
+   "avgScore": 0.991
+  },
+  {
+   "page": 55,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 19.78,
+   "avgScore": 0.99
+  },
+  {
+   "page": 56,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 15.61,
+   "avgScore": 0.989
+  },
+  {
+   "page": 57,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 21.39,
+   "avgScore": 0.98
+  },
+  {
+   "page": 58,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 19.26,
+   "avgScore": 0.987
+  },
+  {
+   "page": 59,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 19.56,
+   "avgScore": 0.975
+  },
+  {
+   "page": 60,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 18.6,
+   "avgScore": 0.992
+  },
+  {
+   "page": 61,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 20.76,
+   "avgScore": 0.981
+  },
+  {
+   "page": 62,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 14.59,
+   "avgScore": 0.994
+  },
+  {
+   "page": 63,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 20.74,
+   "avgScore": 0.977
+  },
+  {
+   "page": 64,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 13.58,
+   "avgScore": 0.992
+  },
+  {
+   "page": 65,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 15.23,
+   "avgScore": 0.978
+  },
+  {
+   "page": 66,
+   "lines": 36,
+   "source": "ocr",
+   "seconds": 18.92,
+   "avgScore": 0.99
+  },
+  {
+   "page": 67,
+   "lines": 55,
+   "source": "ocr",
+   "seconds": 20.28,
+   "avgScore": 0.98
+  },
+  {
+   "page": 68,
+   "lines": 0,
+   "source": "ocr",
+   "seconds": 7.98,
+   "avgScore": 0.0
+  },
+  {
+   "page": 69,
+   "lines": 17,
+   "source": "ocr",
+   "seconds": 30.96,
+   "avgScore": 0.936
+  },
+  {
+   "page": 70,
+   "lines": 28,
+   "source": "ocr",
+   "seconds": 46.47,
+   "avgScore": 0.993
+  },
+  {
+   "page": 71,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 42.39,
+   "avgScore": 0.99
+  },
+  {
+   "page": 72,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 26.83,
+   "avgScore": 0.997
+  },
+  {
+   "page": 73,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 14.38,
+   "avgScore": 0.99
+  },
+  {
+   "page": 74,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.98,
+   "avgScore": 0.985
+  },
+  {
+   "page": 75,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 11.5,
+   "avgScore": 0.988
+  },
+  {
+   "page": 76,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 9.91,
+   "avgScore": 0.986
+  },
+  {
+   "page": 77,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.25,
+   "avgScore": 0.987
+  },
+  {
+   "page": 78,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.14,
+   "avgScore": 0.982
+  },
+  {
+   "page": 79,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 14.19,
+   "avgScore": 0.987
+  },
+  {
+   "page": 80,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 11.72,
+   "avgScore": 0.982
+  },
+  {
+   "page": 81,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 14.88,
+   "avgScore": 0.983
+  },
+  {
+   "page": 82,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.75,
+   "avgScore": 0.979
+  },
+  {
+   "page": 83,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 10.91,
+   "avgScore": 0.983
+  },
+  {
+   "page": 84,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 9.96,
+   "avgScore": 0.982
+  },
+  {
+   "page": 85,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 7.91,
+   "avgScore": 0.986
+  },
+  {
+   "page": 86,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 11.72,
+   "avgScore": 0.984
+  },
+  {
+   "page": 87,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.99,
+   "avgScore": 0.988
+  },
+  {
+   "page": 88,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.38,
+   "avgScore": 0.987
+  },
+  {
+   "page": 89,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 13.54,
+   "avgScore": 0.985
+  },
+  {
+   "page": 90,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 14.11,
+   "avgScore": 0.986
+  },
+  {
+   "page": 91,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 14.37,
+   "avgScore": 0.988
+  },
+  {
+   "page": 92,
+   "lines": 21,
+   "source": "ocr",
+   "seconds": 12.95,
+   "avgScore": 0.981
+  },
+  {
+   "page": 93,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 29.07,
+   "avgScore": 0.994
+  },
+  {
+   "page": 94,
+   "lines": 29,
+   "source": "ocr",
+   "seconds": 45.18,
+   "avgScore": 0.991
+  },
+  {
+   "page": 95,
+   "lines": 24,
+   "source": "ocr",
+   "seconds": 36.69,
+   "avgScore": 0.99
+  },
+  {
+   "page": 96,
+   "lines": 18,
+   "source": "ocr",
+   "seconds": 23.97,
+   "avgScore": 0.998
+  },
+  {
+   "page": 97,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 16.08,
+   "avgScore": 0.995
+  },
+  {
+   "page": 98,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 17.25,
+   "avgScore": 0.994
+  },
+  {
+   "page": 99,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 16.83,
+   "avgScore": 0.993
+  },
+  {
+   "page": 100,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 14.98,
+   "avgScore": 0.993
+  },
+  {
+   "page": 101,
+   "lines": 27,
+   "source": "ocr",
+   "seconds": 18.16,
+   "avgScore": 0.994
+  },
+  {
+   "page": 102,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 16.37,
+   "avgScore": 0.995
+  },
+  {
+   "page": 103,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 24.37,
+   "avgScore": 0.994
+  },
+  {
+   "page": 104,
+   "lines": 28,
+   "source": "ocr",
+   "seconds": 40.65,
+   "avgScore": 0.995
+  },
+  {
+   "page": 105,
+   "lines": 23,
+   "source": "ocr",
+   "seconds": 38.09,
+   "avgScore": 0.982
+  },
+  {
+   "page": 106,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 17.56,
+   "avgScore": 0.972
+  },
+  {
+   "page": 107,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 15.24,
+   "avgScore": 0.97
+  },
+  {
+   "page": 108,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 10.86,
+   "avgScore": 0.966
+  },
+  {
+   "page": 109,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 14.82,
+   "avgScore": 0.966
+  },
+  {
+   "page": 110,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 14.14,
+   "avgScore": 0.968
+  },
+  {
+   "page": 111,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 19.46,
+   "avgScore": 0.966
+  },
+  {
+   "page": 112,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 17.08,
+   "avgScore": 0.959
+  },
+  {
+   "page": 113,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 17.12,
+   "avgScore": 0.969
+  },
+  {
+   "page": 114,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 15.46,
+   "avgScore": 0.972
+  },
+  {
+   "page": 115,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 15.87,
+   "avgScore": 0.965
+  },
+  {
+   "page": 116,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 11.21,
+   "avgScore": 0.968
+  },
+  {
+   "page": 117,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 13.69,
+   "avgScore": 0.969
+  },
+  {
+   "page": 118,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 17.74,
+   "avgScore": 0.97
+  },
+  {
+   "page": 119,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 15.29,
+   "avgScore": 0.971
+  },
+  {
+   "page": 120,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 15.11,
+   "avgScore": 0.967
+  },
+  {
+   "page": 121,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 23.19,
+   "avgScore": 0.99
+  },
+  {
+   "page": 122,
+   "lines": 24,
+   "source": "ocr",
+   "seconds": 33.49,
+   "avgScore": 0.989
+  },
+  {
+   "page": 123,
+   "lines": 24,
+   "source": "ocr",
+   "seconds": 40.33,
+   "avgScore": 0.983
+  },
+  {
+   "page": 124,
+   "lines": 27,
+   "source": "ocr",
+   "seconds": 40.03,
+   "avgScore": 0.995
+  },
+  {
+   "page": 125,
+   "lines": 22,
+   "source": "ocr",
+   "seconds": 26.51,
+   "avgScore": 0.995
+  },
+  {
+   "page": 126,
+   "lines": 40,
+   "source": "ocr",
+   "seconds": 19.6,
+   "avgScore": 0.994
+  },
+  {
+   "page": 127,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 21.13,
+   "avgScore": 0.997
+  },
+  {
+   "page": 128,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 19.81,
+   "avgScore": 0.997
+  },
+  {
+   "page": 129,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 17.68,
+   "avgScore": 0.997
+  },
+  {
+   "page": 130,
+   "lines": 40,
+   "source": "ocr",
+   "seconds": 13.75,
+   "avgScore": 0.998
+  },
+  {
+   "page": 131,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 18.42,
+   "avgScore": 0.995
+  },
+  {
+   "page": 132,
+   "lines": 39,
+   "source": "ocr",
+   "seconds": 19.06,
+   "avgScore": 0.996
+  },
+  {
+   "page": 133,
+   "lines": 40,
+   "source": "ocr",
+   "seconds": 16.97,
+   "avgScore": 0.997
+  },
+  {
+   "page": 134,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 18.21,
+   "avgScore": 0.997
+  },
+  {
+   "page": 135,
+   "lines": 39,
+   "source": "ocr",
+   "seconds": 17.23,
+   "avgScore": 0.996
+  },
+  {
+   "page": 136,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 16.31,
+   "avgScore": 0.997
+  },
+  {
+   "page": 137,
+   "lines": 40,
+   "source": "ocr",
+   "seconds": 18.42,
+   "avgScore": 0.995
+  },
+  {
+   "page": 138,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 14.51,
+   "avgScore": 0.997
+  },
+  {
+   "page": 139,
+   "lines": 41,
+   "source": "ocr",
+   "seconds": 16.71,
+   "avgScore": 0.997
+  },
+  {
+   "page": 140,
+   "lines": 42,
+   "source": "ocr",
+   "seconds": 18.99,
+   "avgScore": 0.994
+  },
+  {
+   "page": 141,
+   "lines": 12,
+   "source": "ocr",
+   "seconds": 19.21,
+   "avgScore": 0.993
+  },
+  {
+   "page": 142,
+   "lines": 26,
+   "source": "ocr",
+   "seconds": 36.56,
+   "avgScore": 0.987
+  },
+  {
+   "page": 143,
+   "lines": 8,
+   "source": "ocr",
+   "seconds": 15.43,
+   "avgScore": 0.997
+  },
+  {
+   "page": 144,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 15.07,
+   "avgScore": 0.98
+  },
+  {
+   "page": 145,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 11.97,
+   "avgScore": 0.987
+  },
+  {
+   "page": 146,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 15.87,
+   "avgScore": 0.991
+  },
+  {
+   "page": 147,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 9.98,
+   "avgScore": 0.988
+  },
+  {
+   "page": 148,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 14.79,
+   "avgScore": 0.99
+  },
+  {
+   "page": 149,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 16.18,
+   "avgScore": 0.989
+  },
+  {
+   "page": 150,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 16.33,
+   "avgScore": 0.991
+  },
+  {
+   "page": 151,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 12.67,
+   "avgScore": 0.986
+  },
+  {
+   "page": 152,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 12.26,
+   "avgScore": 0.988
+  },
+  {
+   "page": 153,
+   "lines": 15,
+   "source": "ocr",
+   "seconds": 11.76,
+   "avgScore": 0.958
+  },
+  {
+   "page": 154,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 12.9,
+   "avgScore": 0.981
+  },
+  {
+   "page": 155,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 12.29,
+   "avgScore": 0.987
+  },
+  {
+   "page": 156,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 14.22,
+   "avgScore": 0.989
+  },
+  {
+   "page": 157,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 14.29,
+   "avgScore": 0.99
+  },
+  {
+   "page": 158,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 15.47,
+   "avgScore": 0.991
+  },
+  {
+   "page": 159,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 8.54,
+   "avgScore": 0.981
+  },
+  {
+   "page": 160,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 12.87,
+   "avgScore": 0.984
+  },
+  {
+   "page": 161,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 12.25,
+   "avgScore": 0.987
+  },
+  {
+   "page": 162,
+   "lines": 14,
+   "source": "ocr",
+   "seconds": 15.65,
+   "avgScore": 0.993
+  },
+  {
+   "page": 163,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 8.06,
+   "avgScore": 0.978
+  },
+  {
+   "page": 164,
+   "lines": 0,
+   "source": "ocr",
+   "seconds": 4.93,
+   "avgScore": 0.0
+  },
+  {
+   "page": 165,
+   "lines": 16,
+   "source": "ocr",
+   "seconds": 24.59,
+   "avgScore": 0.973
+  },
+  {
+   "page": 166,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 41.71,
+   "avgScore": 0.996
+  },
+  {
+   "page": 167,
+   "lines": 28,
+   "source": "ocr",
+   "seconds": 33.73,
+   "avgScore": 0.991
+  },
+  {
+   "page": 168,
+   "lines": 24,
+   "source": "ocr",
+   "seconds": 38.45,
+   "avgScore": 0.979
+  },
+  {
+   "page": 169,
+   "lines": 11,
+   "source": "ocr",
+   "seconds": 21.58,
+   "avgScore": 0.996
+  },
+  {
+   "page": 170,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.75,
+   "avgScore": 0.975
+  },
+  {
+   "page": 171,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.1,
+   "avgScore": 0.961
+  },
+  {
+   "page": 172,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 13.4,
+   "avgScore": 0.98
+  },
+  {
+   "page": 173,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 16.99,
+   "avgScore": 0.977
+  },
+  {
+   "page": 174,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.04,
+   "avgScore": 0.981
+  },
+  {
+   "page": 175,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 13.88,
+   "avgScore": 0.97
+  },
+  {
+   "page": 176,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 13.23,
+   "avgScore": 0.969
+  },
+  {
+   "page": 177,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 12.98,
+   "avgScore": 0.97
+  },
+  {
+   "page": 178,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 9.06,
+   "avgScore": 0.979
+  },
+  {
+   "page": 179,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 9.51,
+   "avgScore": 0.973
+  },
+  {
+   "page": 180,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 7.79,
+   "avgScore": 0.973
+  },
+  {
+   "page": 181,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 7.33,
+   "avgScore": 0.974
+  },
+  {
+   "page": 182,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 8.55,
+   "avgScore": 0.964
+  },
+  {
+   "page": 183,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 10.28,
+   "avgScore": 0.968
+  },
+  {
+   "page": 184,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 12.8,
+   "avgScore": 0.973
+  },
+  {
+   "page": 185,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 15.22,
+   "avgScore": 0.975
+  },
+  {
+   "page": 186,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 15.13,
+   "avgScore": 0.973
+  },
+  {
+   "page": 187,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.68,
+   "avgScore": 0.962
+  },
+  {
+   "page": 188,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.63,
+   "avgScore": 0.981
+  },
+  {
+   "page": 189,
+   "lines": 30,
+   "source": "ocr",
+   "seconds": 14.33,
+   "avgScore": 0.968
+  },
+  {
+   "page": 190,
+   "lines": 0,
+   "source": "ocr",
+   "seconds": 5.07,
+   "avgScore": 0.0
+  },
+  {
+   "page": 191,
+   "lines": 10,
+   "source": "ocr",
+   "seconds": 7.9,
+   "avgScore": 0.993
+  },
+  {
+   "page": 192,
+   "lines": 25,
+   "source": "ocr",
+   "seconds": 8.47,
+   "avgScore": 0.993
+  }
+ ],
+ "wallSeconds": 458.5,
+ "secondsPerPage": 2.49
+}

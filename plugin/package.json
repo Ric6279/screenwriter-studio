@@ -1,0 +1,37 @@
+{
+  "name": "@fatfish/screenwriter-studio",
+  "description": "编剧工坊：四本编剧书 + 九道工序 + 九个可编辑会话窗口的子智能体。空白进入、示范案例、项目卡总控与自检、可编辑阶段说明、知识库上传（扫描版 PDF 自动 OCR）；产出《剧作蓝图》Excel 与 Word 完整剧本。",
+  "version": "0.2.1",
+  "type": "module",
+  "main": "lib/host.js",
+  "exports": {
+    ".": "./lib/host.js",
+    "./client": "./lib/client.js",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "engines": {
+      "dsh": ">=0.2.0-rc.2"
+    },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "inject": [],
+      "platform": "web"
+    }
+  },
+  "peerDependencies": {
+    "@deepseek-ai/dsh": ">=0.2.0-rc.2"
+  },
+  "files": [
+    "lib",
+    "engine",
+    "presets",
+    "cordis.patch.yml",
+    "icon.svg",
+    "SKILL.md",
+    "README.md"
+  ],
+  "license": "MIT"
+}

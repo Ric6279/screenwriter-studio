@@ -1,0 +1,6 @@
+# 编剧工坊的 bundle patch。
+# 宿主半（lib/host.js）注册 screenwriter_* 工具、screenwriter-studio 技能与 /screenwriter/* 路由；
+# 浏览器半（lib/client.js）通过 dsh.client 随页面加载，注册侧栏「编剧工坊」与主面板。
+- insert:
+    - id: screenwriter
+      name: '@fatfish/screenwriter-studio'
