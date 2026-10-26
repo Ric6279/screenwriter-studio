@@ -93,7 +93,8 @@
 - 两套依赖互不影响：Excel/Word 用 DSH Python，OCR 用 `SCREENWRITER_OCR_PYTHON` 指定的 Python。
 
 ```powershell
-git clone <this-repo-url> 编剧工坊
+# 私有仓库，需要先用有权限的 GitHub 账号登录
+git clone https://github.com/Ric6279/screenwriter-studio.git 编剧工坊
 cd 编剧工坊
 ```
 
